@@ -67,5 +67,5 @@ print("Bilangan terbesar: ", max_number)
 ```
 Fungsi: Setelah loop selesai (karena pengguna memasukkan 0), program mencetak nilai dari max_number, yaitu bilangan terbesar yang dimasukkan selama loop.
 
-# Foto FLowchart
-![Foto2]()
+# Foto Flowchart
+![Foto2](https://github.com/AhmadIbnuAbdillah/Foto2/blob/main/WhatsApp%20Image%202024-10-22%20at%2022.22.17_9c7cfcd3.jpg?raw=true)
