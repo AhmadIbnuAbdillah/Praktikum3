@@ -66,3 +66,6 @@ Fungsi: Memeriksa apakah bilangan yang baru dimasukkan (number) lebih besar dari
 print("Bilangan terbesar: ", max_number)
 ```
 Fungsi: Setelah loop selesai (karena pengguna memasukkan 0), program mencetak nilai dari max_number, yaitu bilangan terbesar yang dimasukkan selama loop.
+
+# Foto FLowchart
+![Foto2]()
